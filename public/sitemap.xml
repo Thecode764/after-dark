@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://thecode764.github.io/after-dark/</loc>
+        <loc>https://thecode764.github.io/after-dark/public/</loc>
     </url>
     <url>
-        <loc>https://thecode764.github.io/after-dark/categories/</loc>
+        <loc>https://thecode764.github.io/after-dark/public/categories/</loc>
     </url>
     <url>
-        <loc>https://thecode764.github.io/after-dark/page/1/</loc>
+        <loc>https://thecode764.github.io/after-dark/public/page/1/</loc>
     </url>
     <url>
-        <loc>https://thecode764.github.io/after-dark/tags/</loc>
+        <loc>https://thecode764.github.io/after-dark/public/tags/</loc>
     </url>
     <url>
-        <loc>https://thecode764.github.io/after-dark/welcome/</loc>
+        <loc>https://thecode764.github.io/after-dark/public/welcome/</loc>
         <lastmod>1403-03-09</lastmod>
     </url>
 </urlset>

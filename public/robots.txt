@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://thecode764.github.io/after-dark/sitemap.xml
+Sitemap: https://thecode764.github.io/after-dark/public/sitemap.xml
