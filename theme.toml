@@ -1,18 +1,15 @@
-name = "after-dark"
-description = "A robust, elegant dark theme"
+name = "افتر دارک"
+description = "یک تم مشکی زیبا و ساده برای Zola."
 license = "MIT"
-homepage = "https://github.com/getzola/after-dark"
+homepage = "https://github.com/Thecode764/after-dark"
 min_version = "0.17.0"
-demo = "https://getzola.github.io/after-dark/"
-
 [extra]
 
 
 [author]
-name = "Vincent Prouillet"
-homepage = "https://www.vincentprouillet.com"
+name = "Thecode764"
+homepage = "https://thecode764.github.io"
 
 [original]
-author =  "comfusion"
-homepage = "https://git.habd.as/comfusion/after-dark/"
-repo = "https://git.habd.as/comfusion/after-dark/"
+author =  "getzola"
+repo = "https://git.habd.as/getzola/after-dark/"

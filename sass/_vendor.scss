@@ -7,11 +7,16 @@ html {
   text-rendering: geometricPrecision
 }
 
+@font-face {
+  font-family: Vazir;
+  src: url(../sass/fonts/vazir-code-font-v1.1.2/Vazir-Code-Hack-Extra-Height.ttf);
+}
+
 body {
   font-size: 1rem;
   line-height: 1.5rem;
   margin: 0;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  font-family: Vazir;
   word-wrap: break-word
 }
 

@@ -1,7 +1,7 @@
-base_url = "https://getzola.github.io/after-dark/"
+base_url = "https://thecode764.github.io/after-dark/"
 compile_sass = true
-title = "after-dark theme"
-description = "A robust, elegant dark theme"
+title = "افتر دارک"
+description = "یک تم تیره تمیز و زیبا برای بلاگ زولا."
 generate_feed = true
 
 taxonomies = [
@@ -12,8 +12,8 @@ taxonomies = [
 [extra]
 author = "Vincent"
 after_dark_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/categories", name = "Categories"},
-    {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL", name = "صفحه اصلی"},
+    {url = "$BASE_URL/categories", name = "بخش ها"},
+    {url = "$BASE_URL/tags", name = "تگ ها"},
 ]
-after_dark_title = "My blog"
+after_dark_title = "بلاگ من"
